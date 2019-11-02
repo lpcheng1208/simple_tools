@@ -1,4 +1,5 @@
 ## run project
+pip install -r requirements.txt
 python sanic_server.py
 #### 通过url 重写达到破解limneos 插件(指纹保护,通话录音,callbarxs等)
 http://limneos.net http://localhost:8037/hello header 
